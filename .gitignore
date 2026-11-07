@@ -1,0 +1,26 @@
+# Gradle / build
+.gradle/
+build/
+*/build/
+.kotlin/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Local config (SDK paths, signing)
+local.properties
+*.jks
+*.keystore
+
+# Secrets and environment (nunca versionar)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+google-services.json
+
+# OS
+.DS_Store

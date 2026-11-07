@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Faixa preta horizontal no centro, dentro da área segura do ícone adaptativo (66dp). -->
+    <path
+        android:fillColor="#FF111111"
+        android:pathData="M22,46 H86 A4,4 0 0 1 90,50 V58 A4,4 0 0 1 86,62 H22 A4,4 0 0 1 18,58 V50 A4,4 0 0 1 22,46 Z" />
+    <!-- Nó da faixa, um pouco mais claro para dar volume. -->
+    <path
+        android:fillColor="#FF2B2B2B"
+        android:pathData="M48,44 H60 A2,2 0 0 1 62,46 V66 A2,2 0 0 1 60,68 H48 A2,2 0 0 1 46,66 V46 A2,2 0 0 1 48,44 Z" />
+</vector>
